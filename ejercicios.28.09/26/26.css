@@ -1,0 +1,13 @@
+#cuadro {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 30px;
+    font-family: Courier;
+    font-size: 12px;
+    background-color: #00928b;
+    border-width: 1px;
+    border-style: dotted;
+    border-color: #000000;
+    padding: 20px;
+}
